@@ -6,3 +6,5 @@ Files:
 - Function for changing size of image to expected size for Alexnet: readAndPreprocessImage.m
 
 Dataset: Skin lesion images are from ISIC dataset. They are split between two labels: benign and malignant.
+
+Developers: cclay6 and BiancaPhil
