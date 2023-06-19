@@ -5,6 +5,6 @@ Files:
 - Matlab live script: Skin_Lesion_Classifier.mlx
 - Function for changing size of image to expected size for Alexnet: readAndPreprocessImage.m
 
-Dataset: Skin lesion images are from ISIC dataset. They are split between two labels: benign and malignant.
+Dataset: Skin lesion images are from ISIC dataset (source: https://challenge.isic-archive.com/data/) and are labeled as benign or malignant.
 
 Developers: cclay6 and BiancaPhil
